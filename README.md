@@ -13,7 +13,7 @@ Vibe Coding是一种新型的编程方式，由AI辅助完成代码编写，让�
 ## 目录
 
 - [AI IDE](#AI IDE)
-- [命令行助手](#命令行助手)
+- [Terminal](#Terminal)
 - [编辑器插件](#编辑器插件)
 - [云端开发环境](#云端开发环境)
 - [移动应用](#移动应用)
@@ -27,7 +27,7 @@ Vibe Coding是一种新型的编程方式，由AI辅助完成代码编写，让�
 
 ## AI IDE
 
-- **[Cursor](https://cursor.com/)** - 基于VS Code构建的AI优先编辑器，提供智能代码补全和重构功能，支持多种大语言模型，目前最流行的AI IDE之一。
+- **[Cursor](https://cursor.com/)** - 基于VS Code构建的AI IDE，提供智能代码补全和Agent功能，支持多种大语言模型，目前最流行的AI IDE之一。
 
 - **[Zed](https://zed.dev/)** - 使用Rust开发的高性能编辑器，具有120fps渲染速度和原生AI辅助功能，专为人类和AI协作设计。
 
@@ -45,7 +45,7 @@ Vibe Coding是一种新型的编程方式，由AI辅助完成代码编写，让�
 
 - **[Kiro](https://kiro.dev)** - 从原型到生产的AI IDE，提出了先写好文档再写代码的模式。
 
-## 命令行助手
+## Terminal
 
 - **[claudecode](https://claude.ai/code)** - 支持全代码库感知的终端工具，集成Git工作流。
 
