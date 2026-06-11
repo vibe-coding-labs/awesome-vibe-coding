@@ -169,6 +169,8 @@ Vibe Coding是一种新型的编程方式，由AI辅助完成代码编写，让�
 
 - **[AGENTS.md](https://agents.md/)** - 一种简单、开放的格式，用于指导编码代理。
 
+- **[Wikivibe](https://wikivibe.ru/en/)** - 面向AI辅助开发的实用知识库，包含指南、术语表、招聘信息和公开MCP端点。
+
 ## 任务管理工具
 
 - **[Boomerang Tasks](https://docs.roocode.com/features/boomerang-tasks)** - 自动将复杂项目分解为更小、更易管理的部分。
