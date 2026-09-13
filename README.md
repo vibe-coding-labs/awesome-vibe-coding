@@ -163,6 +163,8 @@ Vibe Coding是一种新型的编程方式，由AI辅助完成代码编写，让�
 
 - **[可视化代码审查](https://coldeco.ai/)** - 为AI生成的代码提供可视化检查和审查功能。
 
+- **[ContextStream](https://contextstream.io)** - Shared project context for Cursor, Claude Code, Codex, Grok. MCP: https://mcp.contextstream.io/mcp · OSS: https://github.com/contextstream/mcp-server. Intelligence isn’t the bottleneck. Context is.
+
 ## AI编程文档工具
 
 - **[CodeGuide](https://www.codeguide.dev/)** - 为AI编码项目创建详细文档。
