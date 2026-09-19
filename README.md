@@ -163,6 +163,9 @@ Vibe Coding是一种新型的编程方式，由AI辅助完成代码编写，让�
 
 - **[可视化代码审查](https://coldeco.ai/)** - 为AI生成的代码提供可视化检查和审查功能。
 
+- **[NextReset](https://nextreset.ai/)** - 独立记录 Codex 重置历史和官方事故来源，并提供仅保存在浏览器本地的个人重置计时器。
+
+
 ## AI编程文档工具
 
 - **[CodeGuide](https://www.codeguide.dev/)** - 为AI编码项目创建详细文档。
