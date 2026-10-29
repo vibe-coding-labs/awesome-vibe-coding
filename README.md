@@ -131,6 +131,8 @@ Vibe Coding是一种新型的编程方式，由AI辅助完成代码编写，让�
 
 - **[Rocket.new](https://www.rocket.new/)** - "无需代码，构建Web和移动应用速度提升10倍"。
 
+- **[AppWizzy](https://appwizzy.com/)** - 通过自然语言和运行时模板创建、编辑 Web 应用，提供独立云端开发虚拟机和基于 Git 的源码编辑。
+
 ## 移动应用
 
 - **[VibeCode](https://www.vibecodeapp.com/)** - 构建应用的应用。
